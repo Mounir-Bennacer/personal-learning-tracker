@@ -8,8 +8,8 @@ It's a way set goals and organise my learning.
 ----
 
 ## Skills
-
-[done]: https://github.com/Mounir-Bennacer/personal-learning-tracker/blob/master/check.png "Done"
+ 
+[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 |               Skills             |   Introduction    |    Occasional Use      |   Regular use    |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
