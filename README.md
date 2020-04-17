@@ -9,16 +9,15 @@ It's a way set goals and organise my learning.
 
 ## Skills
  
-[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 |               Skills             |   Introduction    |    Occasional Use      |   Regular use    |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Laravel**                       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Git bash**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Bitbucket**                     | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**HTML5**                         | :thumbsup:        | :thumbsup::thumbsup:   |:thumbsup::thumbsup::thumbsup:|
+|**Laravel**                       | ![done][done]     | :thumbsup::thumbsup:   | ![done][done]    |
+|**Git**                           | ![done][done]     | :thumbsup::thumbsup:   | ![done][done]    |
+|**Git bash**                      | ![done][done]     | :thumbsup::thumbsup:   | ![done][done]    |
+|**GitHub**                        | ![done][done]     | :thumbsup::thumbsup:   | ![done][done]    |
+|**Bitbucket**                     | ![done][done]     | :thumbsup::thumbsup:   | ![done][done]    |
+|**Prettier**                      | ![done][done]     | :thumbsup::thumbsup:   | ![done][done]    |
 |**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Yarn**                          | ![done][done]     | ![done][done]          | ![done][done]    |
