@@ -8,42 +8,42 @@ It's a way set goals and organise my learning.
 ----
 
 ## Skills
- 
+
 | Skills                            | Introduction        | Occasional Use           | Regular use                    |
 | :-------------------------------- | :-----------------: | :----------------------: | :----------------:             |
 | **HTML5**                         | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **Laravel**                       | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **Git**                           | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **Git bash**                      | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **GitHub**                        | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **Bitbucket**                     | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **Prettier**                      | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **EsLint**                        | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **NPM**                           | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **Yarn**                          | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **Working with APIs**             | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **CSS Grid & Flex-box**           | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **Markdown**                      | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **Website Building**              | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **Publishing website**            | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **Command line**                  | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **NPM scripts**                   | ![done][done]       | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
-| **React**                         | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **GatsbyJS**                      | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **Vue.js**                        | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **Python**                        | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **Django**                        | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **Flask**                         | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **Agile**                         | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **CSS3**                          | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **JavaScript**                    | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **ES6**                           | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **Gulp/Webpack**                  | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **Bootstrap**                     | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **Node.js**                       | ![done][done]       | :thumbsup::thumbsup:     |                                |
-| **Open Source Contribution**      | ![done][done]       |                          |                                |
-| **Next.js**                       | ![done][done]       |                          |                                |
-| **Amazon Web Services**           | ![done][done]       |                          |                                |
+| **Laravel**                       | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **Git**                           | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **Git bash**                      | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **GitHub**                        | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **Bitbucket**                     | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **Prettier**                      | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **EsLint**                        | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **NPM**                           | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **Yarn**                          | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **Working with APIs**             | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **CSS Grid & Flex-box**           | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **Markdown**                      | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **Website Building**              | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **Publishing website**            | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **Command line**                  | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **NPM scripts**                   | :thumbsup:          | :thumbsup::thumbsup:     | :thumbsup::thumbsup::thumbsup: |
+| **React**                         | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **GatsbyJS**                      | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **Vue.js**                        | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **Python**                        | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **Django**                        | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **Flask**                         | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **Agile**                         | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **CSS3**                          | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **JavaScript**                    | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **ES6**                           | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **Gulp/Webpack**                  | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **Bootstrap**                     | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **Node.js**                       | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **Open Source Contribution**      | :thumbsup:          |                          |                                |
+| **Next.js**                       | :thumbsup:          |                          |                                |
+| **Amazon Web Services**           | :thumbsup:          |                          |                                |
 
 ---
 
