@@ -31,6 +31,7 @@ It's a way set goals and organise my learning.
 | **React**                         | :thumbsup:          | :thumbsup::thumbsup:     |                                |
 | **GatsbyJS**                      | :thumbsup:          | :thumbsup::thumbsup:     |                                |
 | **Vue.js**                        | :thumbsup:          | :thumbsup::thumbsup:     |                                |
+| **Nuxt.js**                       | :thumbsup:          | :thumbsup::thumbsup:     |                                |
 | **Python**                        | :thumbsup:          | :thumbsup::thumbsup:     |                                |
 | **Django**                        | :thumbsup:          | :thumbsup::thumbsup:     |                                |
 | **Flask**                         | :thumbsup:          | :thumbsup::thumbsup:     |                                |
@@ -70,7 +71,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
 * [x] Write tests for your code
-* [ ] Help another web developer with something they’re having trouble with
+* [x] Help another web developer with something they’re having trouble with
 * [ ] Attend an event about web development
 * [x] Follow developers you admire on social media
 * [x] Read a book about coding
