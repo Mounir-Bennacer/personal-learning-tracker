@@ -54,11 +54,11 @@ It's a way set goals and organise my learning.
 
 I'm currently interested in/excited about:
 
-- Vue.js
-- Python's best practices
 - Golang
-- Rust
+- Python's best practices
 - Amazon Web Services (AWS)
+- Rust
+- Vue.js
 
 ---
 
